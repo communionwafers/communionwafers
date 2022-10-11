@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @communionwafers
+- 👋 Hi, I’m @emilyaiken123
 - 👀 I’m interested in mathematics and neuroscience.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on brain research.
